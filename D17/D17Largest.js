@@ -1,3 +1,6 @@
+// 
+
+
 const longestConsecutiveSequence = (inputArray) => {
   if (!inputArray.length) return 0
 

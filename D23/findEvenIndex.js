@@ -1,6 +1,6 @@
 // Equal Sides Of An Array
 
-// console.log('*** Day 23: Equal Sides Of An Array ***')
+console.log('*** Day 23: Equal Sides Of An Array ***')
 
 function findEvenIndex(arr) {
   for (var i = 1; i < arr.length - 1; i++) {

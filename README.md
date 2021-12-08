@@ -94,8 +94,8 @@ Vowel Count
 Return the number (count) of vowels in the given string.
 
 ### DAY 28
-WeIrD StRiNg CaSe
----
+WeIrD CaSe StRiNg
+
 ### Connect on 🔗
 
 - [Codedamn Profile](https://codedamn.com/user/VanshSharma)

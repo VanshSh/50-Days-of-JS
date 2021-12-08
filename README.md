@@ -89,6 +89,10 @@ Stop gninnipS My sdroW!
 ### DAY 26
 Find the integer with odd  number of times in the array
 
+### DAY 27
+Vowel Count
+Return the number (count) of vowels in the given string.
+
 ---
 ### Connect on 🔗
 

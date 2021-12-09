@@ -96,6 +96,10 @@ Return the number (count) of vowels in the given string.
 ### DAY 28
 WeIrD CaSe StRiNg
 
+### DAY 29
+Mumbling
+Each char becomes n*chars where n is the index + 1, and the first char is capitalized divided by - instead of space.
+
 ### Connect on 🔗
 
 - [Codedamn Profile](https://codedamn.com/user/VanshSharma)

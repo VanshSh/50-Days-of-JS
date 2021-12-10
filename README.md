@@ -100,6 +100,9 @@ WeIrD CaSe StRiNg
 Mumbling
 Each char becomes n*chars where n is the index + 1, and the first char is capitalized divided by - instead of space.
 
+### DAY 30
+Mexican Wave in stadium
+
 ### Connect on 🔗
 
 - [Codedamn Profile](https://codedamn.com/user/VanshSharma)

@@ -1,3 +1,7 @@
+// Convert given array of digits of a base to another asked base
+
+console.log("*** DAY 14: ARRAY OF DIGITS TO ANOTHER BASE ***")
+
 const convertDigitsToAskedBase = (digits, base, askedBase) => {
   let result = []
   let num = Number(digits.join(''))

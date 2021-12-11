@@ -103,6 +103,10 @@ Each char becomes n*chars where n is the index + 1, and the first char is capita
 ### DAY 30
 Mexican Wave in stadium
 
+### DAY 31 
+Find the factorial of given value
+
+
 ### Connect on 🔗
 
 - [Codedamn Profile](https://codedamn.com/user/VanshSharma)

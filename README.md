@@ -106,6 +106,9 @@ Mexican Wave in stadium
 ### DAY 31 
 Find the factorial of given value
 
+### DAY 32
+Write a program to find the greatest common divisor (gcd) of two positive numbers.
+
 
 ### Connect on 🔗
 

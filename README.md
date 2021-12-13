@@ -109,6 +109,9 @@ Find the factorial of given value
 ### DAY 32
 Write a program to find the greatest common divisor (gcd) of two positive numbers.
 
+### DAY 33
+Write a program to print unique values from an array
+
 
 ### Connect on 🔗
 

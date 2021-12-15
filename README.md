@@ -112,6 +112,9 @@ Write a program to find the greatest common divisor (gcd) of two positive number
 ### DAY 33
 Write a program to print unique values from an array
 
+### DAY 34
+Write a program to find the most frequent item of an array
+
 
 ### Connect on 🔗
 

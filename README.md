@@ -118,6 +118,9 @@ Write a program to find the most frequent item of an array
 ### DAY 35
 Write a JavaScript function to get nth largest element from an unsorted array.
 
+### DAY 36
+RNA Transcription
+
 
 ### Connect on 🔗
 

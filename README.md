@@ -124,6 +124,9 @@ RNA Transcription
 ### DAY 37
 Tell if it is a Leap Year
 
+### DAY 38
+Luhn algorithm
+
 ### Connect on 🔗
 
 - [Codedamn Profile](https://codedamn.com/user/VanshSharma)

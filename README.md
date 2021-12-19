@@ -127,6 +127,9 @@ Tell if it is a Leap Year
 ### DAY 38
 Luhn algorithm
 
+### DAY 39
+Mixed Juice
+
 ### Connect on 🔗
 
 - [Codedamn Profile](https://codedamn.com/user/VanshSharma)

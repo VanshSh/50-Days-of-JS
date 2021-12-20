@@ -130,6 +130,9 @@ Luhn algorithm
 ### DAY 39
 Mixed Juice
 
+### DAY 40
+Vehicle Purchase
+
 ### Connect on 🔗
 
 - [Codedamn Profile](https://codedamn.com/user/VanshSharma)

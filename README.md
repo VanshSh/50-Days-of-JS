@@ -133,6 +133,10 @@ Mixed Juice
 ### DAY 40
 Vehicle Purchase
 
+### DAY 41
+Categorize New Member
+
+
 ### Connect on 🔗
 
 - [Codedamn Profile](https://codedamn.com/user/VanshSharma)

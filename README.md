@@ -139,6 +139,9 @@ Categorize New Member
 ### DAY 42
 Sum of two lowest positive integers
 
+### DAY 43
+Highest Scoring Word
+
 ### Connect on 🔗
 
 - [Codedamn Profile](https://codedamn.com/user/VanshSharma)

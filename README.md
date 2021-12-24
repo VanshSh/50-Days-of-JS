@@ -142,6 +142,9 @@ Sum of two lowest positive integers
 ### DAY 43
 Highest Scoring Word
 
+### DAY 44
+Count the divisors of a number
+
 ### Connect on 🔗
 
 - [Codedamn Profile](https://codedamn.com/user/VanshSharma)

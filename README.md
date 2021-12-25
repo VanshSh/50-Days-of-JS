@@ -145,6 +145,10 @@ Highest Scoring Word
 ### DAY 44
 Count the divisors of a number
 
+### DAY 45
+Find The Parity Outlier
+
+
 ### Connect on 🔗
 
 - [Codedamn Profile](https://codedamn.com/user/VanshSharma)

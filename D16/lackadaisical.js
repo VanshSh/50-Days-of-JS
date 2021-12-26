@@ -9,6 +9,7 @@
 // He answers 'Whatever.' to anything else.
 
 
+console.log("DAY 16 - LACKADAISICAL");
 
 function hey(message){
   // Bob's responses to yelling

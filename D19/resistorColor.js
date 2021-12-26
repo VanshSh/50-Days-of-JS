@@ -1,3 +1,5 @@
+console.log("DAY 19 - RESISTOR COLOR CODES")
+
 const colorCode = (color) => {
   const colors = {
     Black: 0,

@@ -1,3 +1,6 @@
+console.log("DAY 18 - NUMBER OF GRAINS")
+
+
 const totalGrains = () => {
   let firstNumber = 1
   let commonRatio = 2

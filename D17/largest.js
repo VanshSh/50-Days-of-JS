@@ -1,4 +1,6 @@
-// 
+// Longest Consecutive Sequence
+
+console.log("DAY 17 - LONGEST CONSECUTIVE SEQUENCE");
 
 
 const longestConsecutiveSequence = (inputArray) => {

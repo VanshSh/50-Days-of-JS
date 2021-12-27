@@ -148,6 +148,8 @@ Count the divisors of a number
 ### DAY 45
 Find The Parity Outlier
 
+### DAY 46
+A Needle in the Haystack
 
 ### Connect on 🔗
 

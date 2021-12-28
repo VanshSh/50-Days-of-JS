@@ -153,6 +153,9 @@ A Needle in the Haystack
 ### DAY 47
 Check if the characters in the string are unique
 
+### DAY 48
+Human readable duration format
+
 ### Connect on 🔗
 
 - [Codedamn Profile](https://codedamn.com/user/VanshSharma)

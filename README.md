@@ -156,6 +156,8 @@ Check if the characters in the string are unique
 ### DAY 48
 Human readable duration format
 
+### DAY 49
+is this a Triangle
 ### Connect on 🔗
 
 - [Codedamn Profile](https://codedamn.com/user/VanshSharma)

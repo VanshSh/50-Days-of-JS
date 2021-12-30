@@ -1,4 +1,4 @@
-<h2 style="text-align:center">50 DAYS of JavaScript</h2>
+<h2 style="text-align:center">50 DAYS of JavaScript (Completed) </h2>
 
 ***
 
@@ -7,7 +7,7 @@
 ### Tech Stack 
 - JavaScript
 ***
-<img src="https://user-images.githubusercontent.com/64855541/141643232-35ba903e-2ea4-40a4-93e0-b756c36104b8.png">
+<img src="https://pbs.twimg.com/media/FH34dflVEA0Q7xx?format=jpg&name=small">
 
 ***
 ### DAY 1
@@ -158,6 +158,9 @@ Human readable duration format
 
 ### DAY 49
 is this a Triangle
+
+### DAY 50
+Get Middle Character 
 ### Connect on 🔗
 
 - [Codedamn Profile](https://codedamn.com/user/VanshSharma)
